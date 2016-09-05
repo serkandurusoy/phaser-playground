@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    ["babel-root-slash-import", {
+      "rootPathSuffix": ""
+    }]
+  ],
+  "presets": [
+    "es2015",
+    "stage-0"
+  ]
+}
